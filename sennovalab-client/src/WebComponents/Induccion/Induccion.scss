@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Archivo+Black");
+.induccion {
+  background-color: #b0bfc670;
+  height: 100vh ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.awssld__content {
+  background-color: #b0bfc670 !important;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: calc(100vh - 100px);
+}
